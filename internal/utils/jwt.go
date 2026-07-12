@@ -1,4 +1,4 @@
-package helpers
+package utils
 
 import (
 	"go-backend-template/internal/model"
